@@ -25,12 +25,4 @@ g++ bubble_sort.cpp -o bubble_sort
 ./bubble_sort
 ```
 
-Replace `bubble_sort.cpp` with the desired file name to compile and run the other algorithms.
 
-## Usage
-
-Each program will prompt you to enter the number of elements and the elements themselves, then display the sorted array.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE). 
